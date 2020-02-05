@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aangolawai.majowa.com.pl/sitemap.xml
